@@ -1,0 +1,132 @@
+c:\DeptDets\DeptDets\bin\Debug\DeptDets.exe.config
+c:\DeptDets\DeptDets\bin\Debug\DeptDets.exe
+c:\DeptDets\DeptDets\bin\Debug\DeptDets.pdb
+c:\DeptDets\DeptDets\obj\Debug\DeptDets.Form1.resources
+c:\DeptDets\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+c:\DeptDets\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+c:\DeptDets\DeptDets\obj\Debug\DeptDets.exe
+c:\DeptDets\DeptDets\obj\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets\DeptDets\bin\Debug\DeptDets.exe.config
+J:\Programming Projects\DeptDets\DeptDets\bin\Debug\DeptDets.exe
+J:\Programming Projects\DeptDets\DeptDets\bin\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.Form1.resources
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.Form2.resources
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.exe
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+J:\Programming Projects\DeptDets - Copy\DeptDets\bin\Debug\DeptDets.exe.config
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.exe
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.Form1.resources
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.Form2.resources
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.SendEmail.resources
+J:\Programming Projects\DeptDets - Copy\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+J:\Programming Projects\DeptDets - Copy\DeptDets\bin\Debug\DeptDets.exe
+J:\Programming Projects\DeptDets - Copy\DeptDets\bin\Debug\DeptDets.pdb
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Form1.resources
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Form2.resources
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.SendEmail.resources
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe.config
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.pdb
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.exe
+\\BARRA_15\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe.config
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Login.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Reports.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.exe
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.pdb
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe.config
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.pdb
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Login.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Reports.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.exe
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.pdb
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe.config
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.pdb
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Login.resources
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Reports.resources
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.exe
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.pdb
+C:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe.config
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.exe
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.pdb
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.exe
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\bin\Debug\DeptDets.pdb
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Login.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.Reports.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\New Projects\DeptDets - Phone Agenda\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+U:\CAS\Behaviour Log by Miss Kamini\DeptDets\bin\Debug\DeptDets.exe.config
+U:\CAS\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.exe
+U:\CAS\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.pdb
+E:\Behaviour Log by Miss Kamini\DeptDets\bin\Debug\DeptDets.exe.config
+E:\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.exe
+E:\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.pdb
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\bin\Debug\DeptDets.exe.config
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.exe
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.pdb
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\bin\Debug\DeptDets.exe
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\bin\Debug\DeptDets.pdb
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.Login.resources
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.Reports.resources
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+C:\Users\Anttoni\Desktop\Behaviour Log by Miss Kamini\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+U:\CAS\I2\Behaviour-Log\DeptDets\bin\Debug\DeptDets.exe.config
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.exe
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.pdb
+U:\CAS\I2\Behaviour-Log\DeptDets\bin\Debug\DeptDets.exe
+U:\CAS\I2\Behaviour-Log\DeptDets\bin\Debug\DeptDets.pdb
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.Login.resources
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.Reports.resources
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+U:\CAS\I2\Behaviour-Log\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\bin\Debug\DeptDets.exe.config
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.exe
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.pdb
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\bin\Debug\DeptDets.exe
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\bin\Debug\DeptDets.pdb
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.Login.resources
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.Reports.resources
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+C:\Users\Juan Carlos Boschero\Documents\GitHub\Behaviour-Log\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache
+C:\Users\Anttoni\Documents\GitHub\Behaviour Log\DeptDets\bin\Debug\DeptDets.exe.config
+C:\Users\Anttoni\Documents\GitHub\Behaviour Log\DeptDets\obj\Debug\DeptDets.exe
+C:\Users\Anttoni\Documents\GitHub\Behaviour Log\DeptDets\obj\Debug\DeptDets.pdb

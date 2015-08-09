@@ -1,0 +1,23 @@
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Release\DeptDets.exe.config
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Release\DeptDets.exe
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Release\DeptDets.pdb
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.Properties.Resources.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.SendEmail.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.csproj.GenerateResource.Cache
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.exe
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.pdb
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.csprojResolveAssemblyReference.cache
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.MessageTeacher.resources
+J:\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.Reports.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Release\DeptDets.exe.config
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.exe
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.pdb
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Release\DeptDets.exe
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\bin\Release\DeptDets.pdb
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.csprojResolveAssemblyReference.cache
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.Login.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.MessageTeacher.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.Properties.Resources.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.Reports.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.BehaviourLog.resources
+R:\Curriculum\Senior\Subjects\ICT Curriculum\Kamini Mahendran\Programming Projects\DeptDets - Phone Agenda\DeptDets\obj\Release\DeptDets.csproj.GenerateResource.Cache
