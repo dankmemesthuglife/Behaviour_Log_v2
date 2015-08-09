@@ -11,7 +11,7 @@ using System.IO;
 using System.Windows.Forms;
 
 
-namespace DeptDets
+namespace DeptDets //potato launcher
 {
     class Emailer
     {
