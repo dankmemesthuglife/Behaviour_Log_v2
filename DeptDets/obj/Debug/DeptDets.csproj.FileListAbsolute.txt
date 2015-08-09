@@ -133,3 +133,12 @@ C:\Users\Anttoni\Documents\GitHub\Behaviour Log\DeptDets\obj\Debug\DeptDets.pdb
 C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\bin\Debug\DeptDets.exe.config
 C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.exe
 C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.pdb
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\bin\Debug\DeptDets.exe
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\bin\Debug\DeptDets.pdb
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.csprojResolveAssemblyReference.cache
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.Login.resources
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.MessageTeacher.resources
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.Properties.Resources.resources
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.Reports.resources
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.BehaviourLog.resources
+C:\Users\Anttoni\Documents\GitHub\Behaviour_Log_v2\DeptDets\obj\Debug\DeptDets.csproj.GenerateResource.Cache

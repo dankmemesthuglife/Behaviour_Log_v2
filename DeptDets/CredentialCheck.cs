@@ -33,7 +33,7 @@ namespace DeptDets
                     {
                         var line = reader.ReadLine();
 
-                        var values = line.Split(';');
+                        var values = line.Split(',');
 
                         listA.Add(values[0]);
                         listB.Add(values[1]);
