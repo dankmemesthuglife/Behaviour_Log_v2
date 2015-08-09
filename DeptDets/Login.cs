@@ -27,6 +27,10 @@ namespace DeptDets
                 em.Show();
                 this.Hide();
             }
+            else
+            {
+                MessageBox.Show("Username or Password is incorrect");
+            }
         }
 
         private void Login_Load(object sender, EventArgs e)
